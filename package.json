@@ -1,0 +1,22 @@
+{
+  "name": "d3-covid-cl",
+  "version": "1.0.0",
+  "description": "Visualización datos covid usando d3.js para curso de Visualización datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnavarrom/d3-covid-cl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnavarrom/d3-covid-cl/issues"
+  },
+  "homepage": "https://github.com/dnavarrom/d3-covid-cl#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
